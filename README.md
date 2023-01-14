@@ -1,3 +1,3 @@
-[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=brishar0n&theme=algolia)](https://github.com/brishar0n/github-readme-stats)
+![Bri's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brishar0n&theme=rose_pine&show_icons=true)
 
-![Bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=brishar0n&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brishar0n&theme=rose_pine)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjeanjacques10)
